@@ -12,7 +12,7 @@
 
 <h2 align="center">Матрица заинтересованных сторон</h2>
 
-![Новый проект (1)](https://github.com/alpertpi13/Project/assets/81634973/40747f85-9eda-4cc8-96cf-3dcf8668e8a7))
+![Новый проект (1)](https://github.com/alpertpi13/Project/assets/81634973/40747f85-9eda-4cc8-96cf-3dcf8668e8a7)
 
 <h2 align="center">Операции</h2>
 
