@@ -12,7 +12,7 @@
 
 <h2 align="center">Матрица заинтересованных сторон</h2>
 
-![Матрица](https://github.com/ArsapsBlue/Proekt/assets/81634973/d312bb78-ae56-4fd8-91da-9bf285f532f3)
+![Untitled-1](https://github.com/alpertpi13/Project/assets/81634973/15161e7d-f3f8-4565-9759-ce36cd39a94e)
 
 <h2 align="center">Операции</h2>
 
